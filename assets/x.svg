@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <g id="katman_1-1">
+    <g id="katman_1">
+      <circle class="st0" cx="250" cy="250" r="250" style="fill: rgb(255, 255, 255);"/>
+      <g id="layer1" transform="matrix(2.941176, 0, 0, 2.941176, -1038.853149, -483.99646)">
+        <path id="path1009" class="st1" d="M385.85,200.31l40.63,54.32l-40.88,44.17h9.2l35.79-38.67l28.92,38.67h31.31l-42.91-57.38 l38.06-41.11h-9.2l-32.97,35.61l-26.64-35.61H385.85z M399.38,207.09h14.39l63.52,84.94h-14.39L399.38,207.09z" style="fill: rgb(120, 6, 6);"/>
+      </g>
+    </g>
+  </g>
+</svg>
